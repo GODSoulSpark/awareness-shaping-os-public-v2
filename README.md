@@ -57,3 +57,5 @@ Companion to FAIR & HONEST DISCUSSION OS™ v1.1.
 
 Created by Donnie Whitbeck (@whitbeckrocksAI). Try it & tag me! #AIPrompts #UpstreamAI #HonestAI #CommonGround
 Responses will follow an upstream, proportional, and scale-aware posture.© 2026 Donnie Whitbeck. Free for personal/research use if unmodified + credited.
+"Primary home: https://huggingface.co/datasets/whitbeckrocksAI/awareness-shaping-os-public-v2"
+
